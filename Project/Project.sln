@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertGen", "CertGen\CertGen.csproj", "{8282F1DB-FF45-4AAB-B14E-566474975893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertGenUI", "CertGenUI\CertGenUI.csproj", "{C27FC5A6-34A5-4607-AF91-E85046FC593A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Security.Cryptography.X509Certificates", "Common.Security.Cryptography.X509Certificates\Common.Security.Cryptography.X509Certificates.csproj", "{03CBEE35-A0FC-4895-BDEA-9DA617EB8F0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8282F1DB-FF45-4AAB-B14E-566474975893}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{8282F1DB-FF45-4AAB-B14E-566474975893}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{8282F1DB-FF45-4AAB-B14E-566474975893}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{8282F1DB-FF45-4AAB-B14E-566474975893}.Debug|x86.ActiveCfg = Debug|x86
+		{8282F1DB-FF45-4AAB-B14E-566474975893}.Debug|x86.Build.0 = Debug|x86
+		{8282F1DB-FF45-4AAB-B14E-566474975893}.Release|Any CPU.ActiveCfg = Release|x86
+		{8282F1DB-FF45-4AAB-B14E-566474975893}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{8282F1DB-FF45-4AAB-B14E-566474975893}.Release|Mixed Platforms.Build.0 = Release|x86
+		{8282F1DB-FF45-4AAB-B14E-566474975893}.Release|x86.ActiveCfg = Release|x86
+		{8282F1DB-FF45-4AAB-B14E-566474975893}.Release|x86.Build.0 = Release|x86
+		{C27FC5A6-34A5-4607-AF91-E85046FC593A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C27FC5A6-34A5-4607-AF91-E85046FC593A}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{C27FC5A6-34A5-4607-AF91-E85046FC593A}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{C27FC5A6-34A5-4607-AF91-E85046FC593A}.Debug|x86.ActiveCfg = Debug|x86
+		{C27FC5A6-34A5-4607-AF91-E85046FC593A}.Debug|x86.Build.0 = Debug|x86
+		{C27FC5A6-34A5-4607-AF91-E85046FC593A}.Release|Any CPU.ActiveCfg = Release|x86
+		{C27FC5A6-34A5-4607-AF91-E85046FC593A}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{C27FC5A6-34A5-4607-AF91-E85046FC593A}.Release|Mixed Platforms.Build.0 = Release|x86
+		{C27FC5A6-34A5-4607-AF91-E85046FC593A}.Release|x86.ActiveCfg = Release|x86
+		{C27FC5A6-34A5-4607-AF91-E85046FC593A}.Release|x86.Build.0 = Release|x86
+		{03CBEE35-A0FC-4895-BDEA-9DA617EB8F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CBEE35-A0FC-4895-BDEA-9DA617EB8F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CBEE35-A0FC-4895-BDEA-9DA617EB8F0C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{03CBEE35-A0FC-4895-BDEA-9DA617EB8F0C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{03CBEE35-A0FC-4895-BDEA-9DA617EB8F0C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{03CBEE35-A0FC-4895-BDEA-9DA617EB8F0C}.Debug|x86.Build.0 = Debug|Any CPU
+		{03CBEE35-A0FC-4895-BDEA-9DA617EB8F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CBEE35-A0FC-4895-BDEA-9DA617EB8F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03CBEE35-A0FC-4895-BDEA-9DA617EB8F0C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{03CBEE35-A0FC-4895-BDEA-9DA617EB8F0C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{03CBEE35-A0FC-4895-BDEA-9DA617EB8F0C}.Release|x86.ActiveCfg = Release|Any CPU
+		{03CBEE35-A0FC-4895-BDEA-9DA617EB8F0C}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DCBD160-2D23-4F86-A024-1A2B32133EDF}
+	EndGlobalSection
+EndGlobal
